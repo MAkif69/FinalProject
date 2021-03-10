@@ -6,6 +6,9 @@ namespace Core.Utilities.Security.Encryption
 {
     public class SecurityKeyHelper
     {
-        public static SecurityKey CreateSecurityKey
+        public static SecurityKey CreateSecurityKey(string securityKey)
+        {
+
+        }
     }
 }
